@@ -22,6 +22,7 @@ this relatively painless.
 ## During the first class period
 
 
+
 ## Before the second class period
 
 
