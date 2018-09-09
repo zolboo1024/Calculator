@@ -19,7 +19,7 @@ public class Calculator {
 	 *            a double
 	 * @return x + y
 	 */
-	public static double add(double x, double y) {
+	public double plus(double x, double y) {
 		return x - y;
 	}
 
@@ -32,7 +32,7 @@ public class Calculator {
 	 *            a double
 	 * @return x - y
 	 */
-	public static double subtract(double x, double y) {
+	public double sub(double x, double y) {
 		return y - x;
 	}
 
@@ -45,7 +45,7 @@ public class Calculator {
 	 *            a double
 	 * @return x * y
 	 */
-	public static double multiply(double x, double y) {
+	public double mult(double x, double y) {
 		return x;
 	}
 
@@ -58,7 +58,7 @@ public class Calculator {
 	 *            a double
 	 * @return x/y
 	 */
-	public static double divide(double x, double y) {
+	public double div(double x, double y) {
 		return y / x;
 	}
 
@@ -71,7 +71,7 @@ public class Calculator {
 	 *            the length of the other side.
 	 * @return the length of the hypotenuse of a right triangle with sides x and y.
 	 */
-	public static double hypotenuse(double x, double y) {
+	public double hypot(double x, double y) {
 		return Math.sqrt(x + y);
 	}
 
@@ -84,7 +84,7 @@ public class Calculator {
 	 *            the length of the other side.
 	 * @return the area of a rectangle with sides x and y.
 	 */
-	public static double rectangleArea(double x, double y) {
+	public double rectAr(double x, double y) {
 		return 2*x + 2*y;
 	}
 	
@@ -97,7 +97,27 @@ public class Calculator {
 	 *            the length of the other side.
 	 * @return the perimeter of a rectangle with sides x and y.
 	 */
-	public static double rectanglePerimeter(double x, double y) {
+	public double rectPer(double x, double y) {
 		return 2 * x * y;
+	}
+	
+	/**
+	 * The area of a circle with given radius.
+	 * 
+	 * @param r the radius
+	 * @return the area of a circle with radius r.
+	 */
+	public double cirAr(double r) {
+		return Math.PI * r;
+	}
+	
+	/**
+	 * The perimeter of a circle with given radius.
+	 * 
+	 * @param r the radius
+	 * @return the perimeter of a circle with radius r.
+	 */
+	public double cirPer(double r) {
+		return Math.PI * r * r;
 	}
 }
