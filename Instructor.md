@@ -12,12 +12,12 @@ The following outline provides guidance to the instructor for what occurs and wh
 
 ## Before the first class period
 
-1. Fork the [github-issues-activity-f18|https://github.com/braughtg/github-issues-activity-f18] repo into an organization for your course.
-2. Enable Issues in your fork.
-3. Copy the Issues from the [github-issues-activity-f18|https://github.com/braughtg/github-issues-activity-f18] repo into your fork.  Using something like [GitHub issues Import|https://github.com/IQAndreas/github-issues-import] makes
+1 Fork the [github-issues-activity-f18|https://github.com/braughtg/github-issues-activity-f18] repo into an organization for your course.
+1 Enable Issues in your fork.
+1 Copy the Issues from the [github-issues-activity-f18|https://github.com/braughtg/github-issues-activity-f18] repo into your fork.  Using something like [GitHub issues Import|https://github.com/IQAndreas/github-issues-import] makes
 this relatively painless.
-4. Invite all students/participants to be read-only collaborators on the repo in the organization for your course. This will allow students to claim or assign themselves issues. Alternatively, the instructor can assign issues to individuals or teams within the course.
-5. Have the students complete Parts xx through yy in the [Student.md|Student.md] file before coming to the first class period.
+1 Invite all students/participants to be read-only collaborators on the repo in the organization for your course. This will allow students to claim or assign themselves issues. Alternatively, the instructor can assign issues to individuals or teams within the course.
+1 Have the students complete Parts xx through yy in the [Student.md|Student.md] file before coming to the first class period.
 
 ## During the first class period
 
@@ -34,3 +34,11 @@ this relatively painless.
 
 Additional details, slides and in class handout are available from
 [Dickinson College COMP491](http://users.dickinson.edu/~braught/courses/cs491f18/cs491f18.html) or more specifically in the Hands-on section of the [Version Control](http://users.dickinson.edu/~braught/courses/cs491f18/cs491f18.html#0924) day.
+
+
+---
+
+All materials contained in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+Any external materials linked to by these materials may be governed by other licenses.
+
