@@ -12,7 +12,7 @@ The following outline provides guidance to the instructor for what occurs and wh
 
 ## Before the first class period
 
-1. Fork the [github-issues-activity-f18|https://github.com/braughtg/github-issues-activity-f18] repo into an organization for your course.
+1. Fork the [github-issues-activity-f18](https://github.com/braughtg/github-issues-activity-f18) repo into an organization for your course.
 1. Enable Issues in your fork.
 1. Copy the Issues from the [github-issues-activity-f18](https://github.com/braughtg/github-issues-activity-f18) repo into your fork.  Using something like [GitHub issues Import](https://github.com/IQAndreas/github-issues-import) makes
 this relatively painless.
