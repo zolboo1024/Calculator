@@ -85,9 +85,9 @@ public class Calculator {
 	 * @return the area of a rectangle with sides x and y.
 	 */
 	public double rectAr(double x, double y) {
-		return 2*x + 2*y;
+		return 2 * x + 2 * y;
 	}
-	
+
 	/**
 	 * The perimeter of a rectangle with the given side lengths.
 	 * 
@@ -100,24 +100,48 @@ public class Calculator {
 	public double rectPer(double x, double y) {
 		return 2 * x * y;
 	}
-	
+
 	/**
 	 * The area of a circle with given radius.
 	 * 
-	 * @param r the radius
+	 * @param r
+	 *            the radius
 	 * @return the area of a circle with radius r.
 	 */
 	public double cirAr(double r) {
 		return Math.PI * r;
 	}
-	
+
 	/**
 	 * The perimeter of a circle with given radius.
 	 * 
-	 * @param r the radius
+	 * @param r
+	 *            the radius
 	 * @return the perimeter of a circle with radius r.
 	 */
 	public double cirPer(double r) {
 		return Math.PI * r * r;
+	}
+
+	/**
+	 * The volume of a cube with the given side length.
+	 * 
+	 * @param s
+	 *            the side length
+	 * @return the volume of a cube with sides of length s.
+	 */
+	public double cubeVol(double s) {
+		return 4 * s;
+	}
+	
+	/**
+	 * The volume of a sphere with the given radius.
+	 * 
+	 * @param r
+	 *            the radius
+	 * @return the volume of a sphere with radius r.
+	 */
+	public double sphVol(double r) {
+		return 2 * Math.PI * r;
 	}
 }

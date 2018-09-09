@@ -1,16 +1,9 @@
 # github-issues-activity-F18
-Repository for a Hands-On Activity walking though a git/GitHub Workflow
 
-To use:
+Repository for a hands-On activity that walks though a typical git workflow for a H/FOSS project.
 
-1. Fork this repo into an organization for the course.
-2. Enable issues in the fork.
-3. Copy the issues from the original repo to the fork.  Using something 
-like [GitHub issues Import|https://github.com/IQAndreas/github-issues-import] makes
-this relatively painless.
-4. Invite all students/participants to be read-only collaborators on the repo in the organization so that they can be assigned issues.
-5. Assign a unique Round 1 issue to each participant. Participants will complete these concurrently, and issue pull requests. All Round 1 tasks are independent so no conflicts should result when merging the pull requests or when they pull before starting Round 2 issues.
-6. Assign each Round 2 issue to multiple participants. The instructor will make a concurrent change by copying code from the solution while participants work on these issues. Pull requests will generate merge conflicts. Participants will then pull changes, resolve conflict and reissue pull request.  Instructor can then merge one.
+Information for instructors can be found in the [Instructor.md] file.
 
-Additional details, slides and in class handout are available from
-[Dickinson College COMP491](http://users.dickinson.edu/~braught/courses/cs491f18/cs491f18.html) or more specifically in the Hands-on section of the [Version Control](http://users.dickinson.edu/~braught/courses/cs491f18/cs491f18.html#0924) day.
+The activity itself for students can be found in the [Students.md] file.
+
+All materials contained in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License|creativecommons.org/licenses/by-nc-sa/4.0/] license. Any external materials linked to by these materials may be governed by other licenses.
