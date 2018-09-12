@@ -13,10 +13,12 @@ The following outline provides guidance to the instructor for what occurs and wh
 ## Before the first class period
 
 1. Fork the [github-issues-activity-f18](https://github.com/braughtg/github-issues-activity-f18) repo into an organization for your course.
+1. Rename the forked repository github-issues-activity to be consistent with the on-line materials for the students.
+1. Update the HTML documents to include the proper links for your course organization.
 1. Enable Issues in your fork.
 1. Copy the Issues from the [github-issues-activity-f18](https://github.com/braughtg/github-issues-activity-f18) repo into your fork.  Using something like [GitHub issues Import](https://github.com/IQAndreas/github-issues-import) makes
 this relatively painless.
-1. Invite all students/participants to be read-only collaborators on the repo in the organization for your course. This will allow students to claim or assign themselves issues. Alternatively, the instructor can assign issues to individuals or teams within the course.
+1. Invite all students/participants to be <b>read-only</b> collaborators on the repo in the organization for your course. This will allow students to claim or assign themselves issues. Alternatively, the instructor can assign issues to individuals or teams within the course.
 1. Have the students complete Parts xx through yy in the [Student.md](Student.md) file before coming to the first class period.
 
 ## During the first class period
