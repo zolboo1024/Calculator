@@ -3,7 +3,7 @@
 This is a repository for a hands-On activity that walks though a typical git workflow for a H/FOSS project.
 
 * Information for instructors can be found in the [Instructor.md](Instructor.md) file.
-* The activity itself for students is the [http://users.dickinson.edu/~braught/courses/cs491f18/github.html](Git/GitHub Workflow Activity)
+* The activity itself for students is the [Git/GitHub Workflow Activity](http://users.dickinson.edu/~braught/courses/cs491f18/github.html)
 
 ---
 
