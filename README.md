@@ -1,9 +1,6 @@
-# github-issues-activity-F18
+# Calculator
 
-This is a repository for a hands-on activity that walks though a typical git workflow for a H/FOSS project.  No work is to be done on this repository. Typically instructors will fork this repository and then use their fork for their classes.  Please do not submit pull requests to this repository.
-
-* Information for instructors can be found in the [Instructor.md](Instructor.md) file.
-* The activity itself for students is the [Git/GitHub Workflow Activity](http://users.dickinson.edu/~braught/courses/cs491f18/github.html)
+This repository contains a severely flawed calculator class written in Java.  It is not intended to be an actual calculator or even a real project.  It is a repository for a hands-on activity that walks though a typical git workflow for a H/FOSS project.
 
 ---
 
