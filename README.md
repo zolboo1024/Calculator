@@ -2,7 +2,7 @@
 
 This repository contains a severely flawed calculator class written in Java. It is not intended to be an actual calculator or even a real project.  It is a repository for a hands-on activity that I use in my class to walk students though a typical git workflow for a H/FOSS project.
 
-If you are not in my course, I apprecaite the interest, but please do not make pull requests against this projet.  I will simply close any pull requests that are not made by students in my coure.
+If you are not in my course, I apprecaite the interest, but please do not make pull requests against this project.  I will simply close any pull requests that are not made by students in my course.
 
 ---
 
